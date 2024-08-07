@@ -21,12 +21,12 @@ repository               : "Mengzhuo-Zheng/Mengzhuo-Zheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "For the Glory of the Human Mind"
   location         : "Weifang, China"
-  employer         : "Institute of Advanced Agricultural Scienses, Peking University"
+  employer         : "IAAS, Peking University"
   uri              : # URL
   email            : "mengzhuo.zheng@iaas-pku.edu.cn" 
 
