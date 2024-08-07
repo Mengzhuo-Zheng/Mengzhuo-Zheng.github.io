@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bioinfo-ZMZ"
 title_separator          : "-"
 name                     : &name "Mengzhuo Zheng(郑孟卓)"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "Mengzhuo-Zheng/Mengzhuo-Zheng.github.io"
 author:
   # Biographic information
   avatar           : "1.png"
-  name             : "Your Sidebar Name"
+  name             : "Mengzhuo Zheng"
   pronouns         : # example: "she/her"  
   bio              : "For the Glory of the Human Mind"
-  location         : "Weifang, China"
+  location         : "China"
   employer         : "IAAS, Peking University"
   uri              : # URL
   email            : "mengzhuo.zheng@iaas-pku.edu.cn" 
