@@ -1,11 +1,15 @@
----
+ ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+My name is Zheng Mengzhuo (郑孟卓), a BIOINFORMATICS RESEARCH ASSISTANT from [**Institute of Advanced Agricultural Sciences, Peking University**](https://www.pku-iaas.edu.cn/). My reseach interests are worldwide and mainly focus on T2T genome assembly, pan-genome construction, multi-omics analysis and etc. In the future, I hope to combine the latest data science technologies(such as Deep Learning Framewrok) and bioinfomatics to solve the certain biological problems.
+
+I am very fortunate to be advised by [Prof. Junhui Zhou](https://www.pku-iaas.edu.cn/list_38/71.html) of Strawberry Developmental Biology and Germplasm Resources Innovation Laboratory, IAAS-PKU and [A.P. Shoucheng Liu](https://www.pku-iaas.edu.cn/list_28/371.html) of Bioinformatics Platform, IAAS-PKU. I was advised by [Prof. Jinshui Zheng](https://faculty.hzau.edu.cn/zhengjinshui/zh_CN/index) of College of Informatics, HZAU.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
