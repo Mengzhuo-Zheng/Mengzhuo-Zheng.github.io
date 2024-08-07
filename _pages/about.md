@@ -14,20 +14,22 @@ I am very fortunate to be advised by [Prof. Junhui Zhou](https://www.pku-iaas.ed
 
 Educations
 ======
-- 2021.09-2024.06,   M.Sc. Bioinformatics,
+- 2021.09-2024.06,   M.Sc. Bioinformatics, <br/>
   [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan (GPA: 88.03/100)
-- 2023.02-2024.04,   Minor Data Science,
+- 2023.02-2024.04,   Minor Data Science, <br/>
   [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan 
-- 2019.03-2021.07,   B.Sc. Bioinformatics,
+- 2019.03-2021.07,   B.Sc. Bioinformatics, <br/>
   [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan (GPA: 83.55/100)
-- 2017.09-2021.06,   B.Ag. Horticulture,
+- 2017.09-2021.06,   B.Ag. Horticulture, <br/>
   [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan (GPA: 3.65/4.00)
 
 Papers
 ======
 - [Wang, T., Shi, Y., Zheng, M., & Zheng, J. (2024). Comparative Genomics Unveils Functional
 Diversity, Pangenome Openness, and Underlying Biological Drivers among Bacillus subtilis
-Group. Microorganisms, 12(5), 986.](https://doi.org/10.3390/microorganisms12050986)
+Group. Microorganisms, 12(5), 986.](https://doi.org/10.3390/microorganisms12050986
+        
+        )
 - [Li, Z., Zheng, M., Zheng, J., & Gänzle, M. G. (2023). Bacillus species in food fermentations: an underappreciated group of organisms for safe use in food fermentations. Current Opinion in Food Science, 50, 101007.](https://www.sciencedirect.com/science/article/pii/S2214799323000218)
 
 Scholarships
