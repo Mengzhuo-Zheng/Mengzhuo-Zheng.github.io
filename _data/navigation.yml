@@ -4,8 +4,8 @@ main:
     url: /introduction/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Literatures"
-    url: /literatures/
+#  - title: "Literatures"
+#    url: /literatures/
 #  - title: "Publications"
 #    url: /publications/
 
