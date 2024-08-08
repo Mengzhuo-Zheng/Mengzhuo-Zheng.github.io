@@ -11,4 +11,4 @@ I firmly believe that regular and timely summarization and sharing of knowledge 
 
 **So, breaking down barriers and sharing wisdom, let us explore the world of bioinformatics together! 🌴🌴🌴**
 
-[hello world!](../Tutorials/test01.md)
+[hello world!](../tutorials/test01.md)
