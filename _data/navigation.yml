@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Introduction"
+    url: /introduction/
   - title: "Tutorials"
     url: /tutorials/
   - title: "Literatures"
