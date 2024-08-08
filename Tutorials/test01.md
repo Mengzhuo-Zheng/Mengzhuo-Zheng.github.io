@@ -1,5 +1,4 @@
 ---
-permalink: /Tutorials/
 title: "Hello"
 ---
 
