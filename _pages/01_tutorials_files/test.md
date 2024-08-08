@@ -1,5 +1,5 @@
 ---
-permalink: /Tutorials/
+permalink: /tutorials/
 title: "analysis"
 ---
 
