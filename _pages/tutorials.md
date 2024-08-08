@@ -9,4 +9,4 @@ In this section, I will be sharing a number of meticulously crafted guides cover
 
 I firmly believe that regular and timely summarization and sharing of knowledge not only enhances the efficiency of scientific research but also fosters communication and collaboration between bioinformaticians and researchers from diverse backgrounds (biologists and data scientists alike). Such interdisciplinary dialogue is key to driving scientific progress.
 
-So, breaking down barriers and sharing wisdom, Let's explore the world of bioinformatics together! 🌴🌴🌴
+So, breaking down barriers and sharing wisdom, let us explore the world of bioinformatics together! 🌴🌴🌴
