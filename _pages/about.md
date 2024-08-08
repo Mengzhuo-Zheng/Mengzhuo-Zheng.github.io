@@ -27,7 +27,11 @@ Papers
 ======
 - Wang, T., Shi, Y., **Zheng, M.**, & Zheng, J. (2024). Comparative Genomics Unveils Functional
 Diversity, Pangenome Openness, and Underlying Biological Drivers among Bacillus subtilis
-Group. Microorganisms, 12(5), 986.<br/>Available at [https://doi.org/10.3390/microorganisms12050986](https://doi.org/10.3390/microorganisms12050986)
+Group. Microorganisms, 12(5), 986.<br/>Available at [https://doi.org/10.3390/microorganisms12050986
+        
+        ](https://doi.org/10.3390/microorganisms12050986
+        
+        )
 - Li, Z., **Zheng, M.**, Zheng, J., & Gänzle, M. G. (2023). Bacillus species in food fermentations: an underappreciated group of organisms for safe use in food fermentations. Current Opinion in Food Science, 50, 101007.<br/>Available at [https://www.sciencedirect.com/science/article/pii/S2214799323000218](https://www.sciencedirect.com/science/article/pii/S2214799323000218)
 
 Scholarships
@@ -35,7 +39,7 @@ Scholarships
 - The Second-Class Scholarship for Graduate Students of HZAU, Academic year 2023-2024
 - The Second-Class Scholarship for Graduate Students of HZAU, Academic year 2022-2023
 - The First-Class Scholarship for Graduate Students of HZAU, Academic year 2021-2022
-- The First-Class Scholarship, Wuhan Yafei Seed Co, Ltd., 2019-2020
+- The Second-Class Scholarship, Wuhan Yafei Seed Co, Ltd., 2019-2020
 
 Awards in Discipline Competitions
 ======
