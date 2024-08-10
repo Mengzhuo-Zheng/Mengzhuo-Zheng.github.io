@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mengzhuo Zheng"
+title                    : "BioinfoZMZ's website"
 title_separator          : "-"
 name                     : &name "Mengzhuo Zheng"
 description              : &description "personal description"
