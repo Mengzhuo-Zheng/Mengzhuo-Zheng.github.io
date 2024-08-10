@@ -6,22 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-In June 2024, I graduated with an M.Sc. in Bioinformatics from [Huazhong Agricultural University](https://www.hzau.edu.cn/). I have a keen interest in bioinformatics data and technology, as well as Literature, Music and Travel. My MBTI personality is ISFJ (Introversion, Sensing, Feeling and Judging). My colleagues around me see me as a reliable and trustworthy mate. In addition, I have been exchanging bioinformatics methods with people from different academic backgrounds. I believe that only through communication and cooperation can we continue to promote personal growth and development.
+In June 2024, I graduated with an M.Sc. in Bioinformatics from [Huazhong Agricultural University](https://en.hzau.edu.cn/). I have a keen interest in bioinformatics data and technology, as well as Literature, Music and Travel. My MBTI personality is ISFJ (Introversion, Sensing, Feeling and Judging). My colleagues around me see me as a reliable and trustworthy mate. In addition, I have been exchanging bioinformatics methods with people from different academic backgrounds. I believe that only through communication and cooperation can we continue to promote personal growth and development.
 
-Now, I am a Bioinformatics Research Assistant from [Institute of Advanced Agricultural Sciences, Peking University](https://www.pku-iaas.edu.cn/). My research interests are broad, with a primary focus on **multi-omics analysis**, **pan-genome construction**, **T2T genome assembly**, and other related topics. In the future, I plan to combine bioinfomatics with the latest data science methods, such as deep learning, to address particular biological concerns.
+Now, I am a Bioinformatics Research Assistant from [Institute of Advanced Agricultural Sciences, Peking University](https://en.pku-iaas.edu.cn/). My research interests are broad, with a primary focus on **multi-omics analysis**, **pan-genome construction**, **T2T genome assembly**, and other related topics. In the future, I plan to combine bioinfomatics with the latest data science methods, such as deep learning, to address particular biological concerns.
 
-I am very fortunate to be advised by [Prof. Junhui Zhou](https://www.pku-iaas.edu.cn/list_38/71.html) of Strawberry Developmental Biology and Germplasm Resources Innovation Laboratory, IAAS-PKU and [A.P. Shoucheng Liu](https://www.pku-iaas.edu.cn/list_28/371.html) of Bioinformatics Platform, IAAS-PKU. I was advised by [Prof. Jinshui Zheng](https://faculty.hzau.edu.cn/zhengjinshui/zh_CN/index) and [A.P. Qingye Zhang](https://coi.hzau.edu.cn/info/1093/3028.htm) of College of Informatics, HZAU.
+I am very fortunate to be advised by [Prof. Junhui Zhou](https://en.pku-iaas.edu.cn/PI/1163.html) of Strawberry Developmental Biology and Germplasm Resources Innovation Laboratory, IAAS-PKU and [A.P. Shoucheng Liu](https://www.pku-iaas.edu.cn/list_28/371.html) of Bioinformatics Platform, IAAS-PKU. I was advised by [Prof. Jinshui Zheng](https://faculty.hzau.edu.cn/zhengjinshui/en/index.htm) and [A.P. Qingye Zhang](https://encoi.hzau.edu.cn/info/1016/1043.htm) of College of Informatics, HZAU.
 
 Educations
 ======
 - 2021.09-2024.06,   M.Sc. Bioinformatics, <br/>
-  [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan (GPA: 88.03/100)
+  [Huazhong agricultural university](https://en.hzau.edu.cn/), Wuhan (GPA: 88.03/100)
 - 2023.02-2024.04,   Minor Data Science, <br/>
-  [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan 
+  [Huazhong agricultural university](https://en.hzau.edu.cn/), Wuhan 
 - 2019.03-2021.07,   B.Sc. Bioinformatics, <br/>
-  [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan (GPA: 83.55/100)
+  [Huazhong agricultural university](https://en.hzau.edu.cn/), Wuhan (GPA: 83.55/100)
 - 2017.09-2021.06,   B.Ag. Horticulture, <br/>
-  [Huazhong agricultural university](https://www.hzau.edu.cn/), Wuhan (GPA: 3.65/4.00)
+  [Huazhong agricultural university](https://en.hzau.edu.cn/), Wuhan (GPA: 3.65/4.00)
 
 Papers
 ======
