@@ -14,7 +14,6 @@ I firmly believe that regular and timely summarization and sharing of knowledge 
 ## Tutorial-01: scRNA-seq Data Analysis
 - Tutorial Address: [scRNA-seq Guidance](../tutorials/scRNA-seq/README.md)
 - Description: Single-cell RNA sequencing (scRNA-seq) has emerged as a leading technique for comprehensively assessing the transcriptomic landscape of myriad individual cells. The process, while revolutionary, yields extensive datasets that necessitate sophisticated analytical approaches. In this guide, I hope to offer an encapsulated view of the computational processes essential for the handling and interpretation of scRNA-seq data.
----
 
 ## Tutorial-02: Metagenome Data Analysis
 - Tutorial Address: [Metagenome Guidance](../tutorials/metagenome/README.md)
