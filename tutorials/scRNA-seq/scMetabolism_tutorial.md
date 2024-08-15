@@ -61,5 +61,8 @@ BoxPlot.metabolism(obj = countexp.Seurat,
                 phenotype = "ident",
                 ncol = 1)
 ```
-- ncol: 指绘图过程中每行的列数
+- `obj`：单细胞Seurat对象
+- `pathway`：pathways集合
+- `phenotype`: Seurat对象metadata信息中的某个表型数据
+- `ncol`: 指绘图过程中每行的列数
 ![](./scmetabolism_boxplot.png)
