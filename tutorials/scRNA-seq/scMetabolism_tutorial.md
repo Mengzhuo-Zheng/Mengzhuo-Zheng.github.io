@@ -1,4 +1,7 @@
-# scMetabolism 使用指南
+---
+scMetabolism 使用指南
+---
+
 ## 01 安装及数据导入
 ```R
 install.packages(c("devtools", "data.table", "wesanderson", "Seurat", "devtools", "AUCell", "GSEABase", "GSVA", "ggplot2","rsvd"))
