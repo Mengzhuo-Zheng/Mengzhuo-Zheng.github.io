@@ -9,8 +9,8 @@ In this section, I will be sharing a number of meticulously crafted guides cover
 
 I firmly believe that regular and timely summarization and sharing of knowledge not only enhances the efficiency of scientific research but also fosters communication and collaboration between bioinformaticians and researchers from diverse backgrounds (biologists and data scientists alike). Such interdisciplinary dialogue is key to driving scientific progress.
 
-**So, breaking down barriers and sharing wisdom <br/>Let us explore the world of bioinformatics together! 🌴🌴🌴**
+**So, breaking down barriers and sharing wisdom✨✨ <br/>Let us explore the world of bioinformatics together! 🌴🌴**
 
 -----
-## 😼 [scRNA-seq Data Analysis](../tutorials/scRNA-seq/README.md)
-Single-cell RNA sequencing (scRNA-seq) has emerged as a leading technique for comprehensively assessing the transcriptomic landscape of myriad individual cells. The process, while revolutionary, yields extensive datasets that necessitate sophisticated analytical approaches. In this guide, we offer an encapsulated view of the computational processes essential for the handling and interpretation of scRNA-seq data.
+## Tutorial: [scRNA-seq Data Analysis](../tutorials/scRNA-seq/README.md)
+- Single-cell RNA sequencing (scRNA-seq) has emerged as a leading technique for comprehensively assessing the transcriptomic landscape of myriad individual cells. The process, while revolutionary, yields extensive datasets that necessitate sophisticated analytical approaches. In this guide, we offer an encapsulated view of the computational processes essential for the handling and interpretation of scRNA-seq data.
