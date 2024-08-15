@@ -13,7 +13,7 @@ library(rsvd)
 load(file = "pbmc_demo.rda")
 ```
 
-## 02 利用 Seurat 量化单细胞代谢水平
+## 02 量化单细胞代谢水平
 ```R
 countexp.Seurat<-sc.metabolism.Seurat(obj = countexp.Seurat, 
                   method = "AUCell", 
@@ -33,7 +33,7 @@ countexp.Seurat<-sc.metabolism.Seurat(obj = countexp.Seurat,
 metabolism.matrix <- countexp.Seurat@assays$METABOLISM$score
 ```
 ## 04 可视化
-### 04-1 Dimplot点图：特定pathway的umap降维可视化
+### 04-1 Dimplot：特定pathway的umap降维可视化
 ```R
 DimPlot.metabolism(obj = countexp.Seurat, 
           pathway = "Glycolysis / Gluconeogenesis", 
@@ -42,3 +42,24 @@ DimPlot.metabolism(obj = countexp.Seurat,
           size = 1)
 ```
 ![](./scmetabolism_dimplot.png)
+
+### 04-2 Dotplot：特定pathways集合的score点图
+```R
+input.pathway<-c("Glycolysis / Gluconeogenesis", "Oxidative phosphorylation", "Citrate cycle (TCA cycle)")
+DotPlot.metabolism(obj = countexp.Seurat, pathway = input.pathway, phenotype = "ident", norm = "y")
+```
+- `obj`：单细胞Seurat对象
+- `pathway`：pathways集合
+- `phenotype`: Seurat对象metadata信息中的某个表型数据
+- `norm`：对行或列归一化，可以选择`x`或`y`或`na`
+![](./scmetabolism_dotplot.png)
+
+### 04-3 Boxplot：特定pathways的箱线图
+```R
+BoxPlot.metabolism(obj = countexp.Seurat,
+                pathway = input.pathway,
+                phenotype = "ident",
+                ncol = 1)
+```
+- ncol: 指绘图过程中每行的列数
+![](./scmetabolism_boxplot.png)
