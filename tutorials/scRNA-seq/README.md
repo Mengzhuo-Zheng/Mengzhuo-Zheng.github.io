@@ -3,6 +3,7 @@ title: "scRNA-seq Guidance"
 ---
 
 <br/>
+
 **Scissor**: Single-Cell Identification of Subpopulations with bulk Sample phenotype coRrelation
 - Case: [code and visualisation](https://sunduanchen.github.io/Scissor/vignettes/Scissor_Tutorial.html)
 - GitHub: [https://github.com/sunduanchen/Scissor](https://github.com/sunduanchen/Scissor)
@@ -10,6 +11,7 @@ title: "scRNA-seq Guidance"
 Duanchen Sun, Xiangnan Guan, Amy E. Moran, Ling-Yun Wu, David Z. Qian, Pepper Schedin, Mu-Shui Dai, Alexey V. Danilov, Joshi J. Alumkal, Andrew C. Adey, Paul T. Spellman and Zheng Xia
 
 <br/>
+
 ---
 
 **scMetabolism**: a R package for quantifying metabolism activity at the single-cell resolution
