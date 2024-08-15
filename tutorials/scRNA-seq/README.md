@@ -9,6 +9,7 @@ title: "scRNA-seq Guidance"
 Duanchen Sun, Xiangnan Guan, Amy E. Moran, Ling-Yun Wu, David Z. Qian, Pepper Schedin, Mu-Shui Dai, Alexey V. Danilov, Joshi J. Alumkal, Andrew C. Adey, Paul T. Spellman and Zheng Xia
 <br/>
 ---
+
 **scMetabolism**: a R package for quantifying metabolism activity at the single-cell resolution
 - Case: [code and visualisation](./scMetabolism_tutorial.md)
 - GitHub: [https://github.com/wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)
