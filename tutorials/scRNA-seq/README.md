@@ -1,8 +1,9 @@
 ---
 title: "scRNA-seq Guidance"
 ---
+
 <br/>
-**Scissor**: Single-Cell Identification of Subpopulations with bulk Sample phenOtype coRrelation
+**Scissor**: Single-Cell Identification of Subpopulations with bulk Sample phenotype coRrelation
 - Case: [code and visualisation](https://sunduanchen.github.io/Scissor/vignettes/Scissor_Tutorial.html)
 - GitHub: [https://github.com/sunduanchen/Scissor](https://github.com/sunduanchen/Scissor)
 - Cite: Identifying phenotype-associated subpopulations by integrating bulk and single-cell sequencing data. Nature Biotechnology (2021). https://doi.org/10.1038/s41587-021-01091-3IF: 33.1 Q1 .
