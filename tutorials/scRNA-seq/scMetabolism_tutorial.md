@@ -1,5 +1,4 @@
 ---
-permalink: /tutorials/scRNA-seq
 title: "scMetabolism 使用指南"
 ---
 
