@@ -2,7 +2,7 @@
 permalink: /tutorials/
 title: "Bioinformatics Tutorials "
 ---
-*****************************************************************************
+\*****************************************************************************
 **🎉🎉 *Greetings from my Bioinformatics Analysis Tutorials Section!*🎉🎉**
 *****************************************************************************<br/> 
 In this era of information overload, re-engaging with previous analysis strategies often involves a cumbersome and inefficient sifting through a vast sea of experimental records. To overcome this challenge, I have decided to create this space for systematic organization of my explorations and practices in the field of bioinformatics.
