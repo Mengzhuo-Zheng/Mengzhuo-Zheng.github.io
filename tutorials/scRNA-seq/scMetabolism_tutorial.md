@@ -42,4 +42,4 @@ DimPlot.metabolism(obj = countexp.Seurat,
           dimention.reduction.run = F, 
           size = 1)
 ```
-![](./scmetabolism_dimplot)
+![](./scmetabolism_dimplot.png)
