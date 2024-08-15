@@ -13,7 +13,4 @@ I firmly believe that regular and timely summarization and sharing of knowledge 
 
 -----
 ## 😼 [scRNA-seq Data Analysis](../tutorials/scRNA-seq/README.md)
-
-
-
-[hello world!](../tutorials/test01.md)
+Single-cell RNA sequencing (scRNA-seq) has emerged as a leading technique for comprehensively assessing the transcriptomic landscape of myriad individual cells. The process, while revolutionary, yields extensive datasets that necessitate sophisticated analytical approaches. In this guide, we offer an encapsulated view of the computational processes essential for the handling and interpretation of scRNA-seq data.
