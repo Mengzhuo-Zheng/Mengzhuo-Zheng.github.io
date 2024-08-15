@@ -1,4 +1,7 @@
-# header: scMetabolism 使用指南
+---
+permalink: /tutorials/scRNA-seq
+title: "scMetabolism 使用指南"
+---
 
 ## 01 安装及数据导入
 ```R
