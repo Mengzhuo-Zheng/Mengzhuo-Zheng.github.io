@@ -8,6 +8,7 @@ title: "scRNA-seq Guidance"
 - GitHub: [https://github.com/sunduanchen/Scissor](https://github.com/sunduanchen/Scissor)
 - Cite: Identifying phenotype-associated subpopulations by integrating bulk and single-cell sequencing data. Nature Biotechnology (2021). https://doi.org/10.1038/s41587-021-01091-3IF: 33.1 Q1 .
 Duanchen Sun, Xiangnan Guan, Amy E. Moran, Ling-Yun Wu, David Z. Qian, Pepper Schedin, Mu-Shui Dai, Alexey V. Danilov, Joshi J. Alumkal, Andrew C. Adey, Paul T. Spellman and Zheng Xia
+
 <br/>
 ---
 
