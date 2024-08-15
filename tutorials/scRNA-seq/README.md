@@ -1,5 +1,6 @@
-
-# scRNA-seq Guidance
+---
+title: scRNA-seq Guidance
+---
 
 **scMetabolism**: a R package for quantifying metabolism activity at the single-cell resolution
 - Case: [code and visualisation](./scMetabolism_tutorial.md)
