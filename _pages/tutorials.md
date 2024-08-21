@@ -19,4 +19,8 @@ I firmly believe that regular and timely summarization and sharing of knowledge 
 - Tutorial Address: [Metagenome Guidance](../tutorials/metagenome/README.md)
 - Description: Metagenomics involves the direct examination of genetic material extracted from environmental samples, providing insights into the microbial communities inhabiting a specific setting and their functional roles within that ecosystem.
 
+## Tutorial-03: R Statistics & Visualization
+- Tutorial Address: [R statistics](../tutorials/R/README.md)
+- Description: R is a mathematical programming language designed for researchers in the field of statistics, primarily used for statistical analysis, plotting, and data mining.
+
 
